@@ -7,9 +7,6 @@ https://www.youtube.com/watch?v=NBEB2Dkw1aE
 ## Weekly Development Videos
 https://www.youtube.com/watch?v=Ur6vrh5-gMU&list=PLAu3dU8p746BB1z4TUxNWb8e1J3OjnxYR&index=11
 
-## Paper
-todo
-
 ## Samples - 1600 Epochs
 
 ### Output
